@@ -1,5 +1,3 @@
-# Data-Structure
-Basic data structures.
 # Data Structures Implementations
 
 This repository contains a collection of data structure implementations in C++ along with examples and problem-solving techniques. Each data structure is designed to demonstrate its fundamental concepts and applications.
@@ -103,3 +101,26 @@ This repository contains a collection of data structure implementations in C++ a
 1. Clone the repository:
    ```bash
    git clone https://github.com/YourUsername/RepositoryName.git
+
+Navigate to the desired directory:
+bash
+Copy code
+cd RepositoryName
+Compile and run the C++ code:
+bash
+Copy code
+g++ -o output_file_name file_name.cpp
+./output_file_name
+Contributing
+Contributions are welcome! Feel free to:
+
+Submit issues for bugs or feature requests.
+Fork the repo, make changes, and submit a pull request.
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Contact
+Author: Rakibul Hassan
+LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rakibul-hassan-467a941b4/)
+
+Happy Coding! 🚀
